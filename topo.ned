@@ -1,5 +1,4 @@
-// Generated NED file for the TicToc9 simulation.
-// This file outlines the network configuration using Tic9 and Toc9 modules.
+
 
 import ned.IdealChannel;
 
