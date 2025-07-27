@@ -1,4 +1,4 @@
-# Client-Server-Gossip-Protocol-Simulation-using-OMNeTpp
+
 # Client-Server Gossip Protocol Simulation using OMNeT++
 
 This project simulates a dynamic client-server architecture using OMNeT++, where clients distribute data to servers, gather responses, and use a gossip protocol to collaboratively evaluate and rank server performance. The simulation includes automated NED generation to support customizable network topologies.
